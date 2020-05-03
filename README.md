@@ -2,7 +2,8 @@
 
 
 
-![C1](https://github.com/ShankarNarayanan97/Corona-Watcher/blob/master/fig5.PNG)
+
+![C1](https://github.com/ShankarNarayanan97/Corona-Watcher/blob/master/join2.jpg)
 ![C1](https://github.com/ShankarNarayanan97/Corona-Watcher/blob/master/join1.jpg)
 ![C1](https://github.com/ShankarNarayanan97/Corona-Watcher/blob/master/fig4.PNG)
 ![C1](https://github.com/ShankarNarayanan97/Corona-Watcher/blob/master/fig3.png)
